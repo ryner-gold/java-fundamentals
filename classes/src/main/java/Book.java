@@ -11,19 +11,17 @@ public class Book {
     this.isbn = isbn;
   }
 
-  // Getter
-//  public String getTitle() {
-//    return title;
-//  }
-//
-//  // Getter
-//  public String getAuthor() {
-//    return author;
-//  }
-//
-//  public String getIsbn() {
-//    return isbn;
-//  }
+  public String getTitle() {
+    return title;
+  }
+
+  public String getAuthor() {
+    return author;
+  }
+
+  public String getIsbn() {
+    return isbn;
+  }
 
 //  @Override
 //  public String toString() {
